@@ -1,0 +1,5 @@
+spring.profiles.active: native
+spring.cloud.config.server.bootstrap: true
+spring.cloud.config.server.encrypt.enabled: false
+#spring.cloud.config.server.native.searchLocations: /home/minsunglim/cloudserver
+spring.cloud.config.server.native.search-locations: file:///C:/cloudserver
